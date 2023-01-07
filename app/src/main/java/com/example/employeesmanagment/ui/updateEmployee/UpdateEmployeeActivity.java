@@ -60,9 +60,6 @@ public class UpdateEmployeeActivity extends AppCompatActivity implements Adapter
             finish();
         });
 
-        binding.etDate.setOnClickListener(view -> {
-
-        });
 
         DatePickerDialog.OnDateSetListener date =new DatePickerDialog.OnDateSetListener() {
             @Override
