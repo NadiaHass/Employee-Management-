@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/ouvrir_item"
+        android:title="Ouvrir"/>
+    <item
+        android:id="@+id/modifier_item"
+        android:title="Modifier" />
+    <item
+        android:id="@+id/supprimer_item"
+        android:title="Supprimer" />
+
+</menu>

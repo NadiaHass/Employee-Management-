@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Employees Managment</string>
+    <string name="numero_de_tel">Numero de tel</string>
+    <string name="email">Email</string>
+    <string name="prenom">Prenom</string>
+    <string name="nom">Nom</string>
+</resources>
