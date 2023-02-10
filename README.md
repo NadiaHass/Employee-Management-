@@ -1,6 +1,6 @@
 # Employee-Management-
 
-__Employee Management__ is an android food delivery application with friendly user interface, implemented using the sqlite database and recyclerView and more.
+__Employee Management__ is an android application with friendly user interface that stores employee's data, implemented using the sqlite database and recyclerView and more.
 
 <p float = "left">
 <img width="207" src="https://user-images.githubusercontent.com/87112510/218125087-698a68e1-cdb7-43b5-a8dc-0bf6a62b4839.png" width = "35%">
